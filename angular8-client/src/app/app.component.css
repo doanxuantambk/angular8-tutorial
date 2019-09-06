@@ -283,3 +283,25 @@ svg#clouds {
     visibility: hidden;
   }
 }
+
+
+.col-sm-2.left-menu{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.left-panel{
+  width: 300px;
+  float: left;
+  min-height: 100%;
+  max-height: 500px;
+  overflow: auto;
+}
+
+.right-panel{
+  width: calc(100% - 300px);
+  float: left;
+  min-height: 100%;
+  max-height: 500px;
+  overflow: auto;
+}
