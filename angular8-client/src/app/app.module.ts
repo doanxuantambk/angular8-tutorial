@@ -7,7 +7,7 @@ import { CreateEmployeeComponent } from './create-employee/create-employee.compo
 import { EmployeeDetailsComponent } from './employee-details/employee-details.component';
 import { EmployeeListComponent } from './employee-list/employee-list.component';
 import { FontAwesomeModule, FaIconLibrary } from '@fortawesome/angular-fontawesome';
-import { faSquare, faCheckSquare } from '@fortawesome/free-solid-svg-icons';
+import { faSquare, faCheckSquare, faCoffee, faHome } from '@fortawesome/free-solid-svg-icons';
 import { faSquare as farSquare, faCheckSquare as farCheckSquare } from '@fortawesome/free-regular-svg-icons';
 import { faStackOverflow, faGithub, faMedium } from '@fortawesome/free-brands-svg-icons';
 import { NavbarComponent } from './navbar/navbar.component';
@@ -30,6 +30,6 @@ import { NavbarComponent } from './navbar/navbar.component';
 })
 export class AppModule {
   constructor(private library: FaIconLibrary) {
-    library.addIcons(faSquare, faCheckSquare, farSquare, farCheckSquare, faStackOverflow, faGithub, faMedium);
+    library.addIcons(faSquare, faCoffee, faHome, faCheckSquare, farSquare, farCheckSquare, faStackOverflow, faGithub, faMedium);
   }
 }
