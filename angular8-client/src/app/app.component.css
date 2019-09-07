@@ -285,6 +285,10 @@ svg#clouds {
 }
 
 
+.container{
+  max-width: 100%;
+}
+
 .col-sm-2.left-menu{
   padding-left: 0;
   padding-right: 0;
@@ -304,4 +308,8 @@ svg#clouds {
   min-height: 100%;
   max-height: 500px;
   overflow: auto;
+}
+
+.icon-qna::before{
+  content: '\e90e';
 }
