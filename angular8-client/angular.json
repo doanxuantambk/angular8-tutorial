@@ -25,11 +25,12 @@
             ],
             "styles": [
               "src/styles.css",
-              "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "src/assets/bootstrap-3.3.7/css/bootstrap.min.css"
             ],
             "scripts": [
-              "./node_modules/bootstrap/dist/js/bootstrap.min.js",
-              "./node_modules/jquery/dist/jquery.min.js"
+              "src/assets/jquery/jquery-2.1.0.min.js",
+              "src/assets/bootstrap-3.3.7/js/bootstrap.min.js"
+              
             ]
           },
           "configurations": {
