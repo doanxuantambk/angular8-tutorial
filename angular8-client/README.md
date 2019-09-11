@@ -35,3 +35,8 @@ Can import thu vien jquery truoc thu vien bootstrap trong angular.json
 `ng g s apiLogin`
 
 
+## Google map tich hop angular
+https://www.tutsmake.com/angular-google-maps-integration-example/
+https://medium.com/@jkeung/integrating-google-maps-api-w-angular-7-e7672396ce2d
+
+
