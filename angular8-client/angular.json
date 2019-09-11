@@ -30,7 +30,7 @@
             "scripts": [
               "src/assets/jquery/jquery-2.1.0.min.js",
               "src/assets/bootstrap-3.3.7/js/bootstrap.min.js"
-              
+
             ]
           },
           "configurations": {
