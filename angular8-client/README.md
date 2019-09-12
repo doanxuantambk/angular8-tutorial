@@ -25,3 +25,18 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Chu y
+Can import thu vien jquery truoc thu vien bootstrap trong angular.json
+## Tao component
+`ng g c header`
+
+## Tao service
+`ng g s apiLogin`
+
+
+## Google map tich hop angular
+https://www.tutsmake.com/angular-google-maps-integration-example/
+https://medium.com/@jkeung/integrating-google-maps-api-w-angular-7-e7672396ce2d
+
+
