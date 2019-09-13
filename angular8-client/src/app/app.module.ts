@@ -12,6 +12,7 @@ import { faSquare as farSquare, faCheckSquare as farCheckSquare } from '@fortawe
 import { faStackOverflow, faGithub, faMedium } from '@fortawesome/free-brands-svg-icons';
 import { NavbarComponent } from './navbar/navbar.component';
 import { HeaderComponent } from './header/header.component';
+import { UsermanagementComponent } from './admin/usermanagement/usermanagement.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { HeaderComponent } from './header/header.component';
     EmployeeDetailsComponent,
     EmployeeListComponent,
     NavbarComponent,
-    HeaderComponent
+    HeaderComponent,
+    UsermanagementComponent
   ],
   imports: [
     BrowserModule,

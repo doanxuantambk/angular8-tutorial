@@ -2,43 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c0897ce-79ab-4741-aedd-cdf0a4cd9e30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/UI/buttons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/UI/general.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/UI/icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/UI/modals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/UI/sliders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/UI/timeline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/calendar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/charts/chartjs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/charts/flot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/charts/inline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/charts/morris.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/examples/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/examples/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/examples/blank.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/examples/invoice-print.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/examples/invoice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/examples/lockscreen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/examples/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/examples/pace.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/examples/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/examples/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/forms/advanced.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/forms/editors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/forms/general.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/layout/boxed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/layout/collapsed-sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/layout/fixed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/layout/top-nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/mailbox/compose.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/mailbox/mailbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/mailbox/read-mail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/tables/data.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/tables/simple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/widgets.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../angular8-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../angular8-client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular8-client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../angular8-client/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular8-client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular8-client/src/app/app.module.ts" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -51,20 +18,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/navbar/navbar.component.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/app.component1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -76,17 +29,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="650" column="29" selection-start-line="650" selection-start-column="29" selection-end-line="650" selection-end-column="29" />
+            <state relative-caret-position="333">
+              <caret line="465" column="22" selection-start-line="465" selection-start-column="22" selection-end-line="465" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assets/build/less/treeview.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="548">
+              <caret line="44" column="1" lean-forward="true" selection-end-line="44" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assets/dist/css/AdminLTE.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="7" column="6929" lean-forward="true" selection-start-line="7" selection-start-column="6929" selection-end-line="7" selection-end-column="6929" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/UI/icons.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+            <state relative-caret-position="351">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -94,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="90">
               <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
@@ -107,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="456">
+              <first_editor relative-caret-position="630">
                 <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
               </first_editor>
               <second_editor />
@@ -154,6 +125,7 @@
       <find>coffee</find>
       <find>dist/img</find>
       <find>assets/dist</find>
+      <find>treeview-menu</find>
     </findStrings>
     <replaceStrings>
       <replace>src/assets/dist/img</replace>
@@ -199,6 +171,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,33 +189,45 @@
               <item name="admin-page" type="b2602c69:ProjectViewProjectNode" />
               <item name="admin-page" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="admin-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="admin-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="admin-page" type="b2602c69:ProjectViewProjectNode" />
               <item name="admin-page" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="admin-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="admin-page" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="less" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="admin-page" type="b2602c69:ProjectViewProjectNode" />
               <item name="admin-page" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="UI" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568305487374" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568333217515" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -311,18 +297,19 @@
       <workItem from="1568215960182" duration="4873000" />
       <workItem from="1568244568225" duration="505000" />
       <workItem from="1568298393541" duration="772000" />
-      <workItem from="1568301794555" duration="3090000" />
+      <workItem from="1568301794555" duration="3278000" />
+      <workItem from="1568331764553" duration="1357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17130000" />
+    <option name="totallyTimeSpent" value="18675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="23" width="1227" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21772152" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22109705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -525,12 +512,37 @@
     <entry file="file://$PROJECT_DIR$/src/app/navbar/navbar.component.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.component.spec.ts">
+    <entry file="file://$PROJECT_DIR$/angular.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="600">
+          <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
           <folding>
-            <element signature="e#0#55#0" expanded="true" />
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="630">
+            <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -549,51 +561,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.component1.html">
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="40" column="71" selection-start-line="40" selection-start-column="71" selection-end-line="40" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state>
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#0#55#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="456">
-            <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="650" column="29" selection-start-line="650" selection-start-column="29" selection-end-line="650" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/UI/icons.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        <state relative-caret-position="351">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="107" column="48" lean-forward="true" selection-start-line="107" selection-start-column="48" selection-end-line="107" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/dist/css/AdminLTE.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="470" column="3" selection-start-line="470" selection-start-column="3" selection-end-line="470" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/dist/css/AdminLTE.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="7" column="6929" lean-forward="true" selection-start-line="7" selection-start-column="6929" selection-end-line="7" selection-end-column="6929" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="465" column="22" selection-start-line="465" selection-start-column="22" selection-end-line="465" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/build/less/treeview.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="44" column="1" lean-forward="true" selection-end-line="44" selection-end-column="1" />
         </state>
       </provider>
     </entry>
