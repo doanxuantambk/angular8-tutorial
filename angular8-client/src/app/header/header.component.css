@@ -33,10 +33,10 @@ ul li.active a {
 ul.dropdown-menu li a{
   color: #888;
 }
-
-.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
-  background-color: #199427;
+.dropdown ul li a {
+  background-color: white !important;
 }
+
 
 
 

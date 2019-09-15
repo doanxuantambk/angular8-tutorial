@@ -78,10 +78,14 @@
   </div>
 </nav>
 
-<script>
-  $(".dropdown").click(function(){
-    alert(2);
+<script type="javascript">
+  $(document).ready(function(){
+    alert(3);
+    // $(".dropdown").click(function(){
+    //   alert(2);
+    // });
   });
+
   $('ul.nav li a').click( function() {
     alert(1);
     $('.nav li.active').removeClass('active');
