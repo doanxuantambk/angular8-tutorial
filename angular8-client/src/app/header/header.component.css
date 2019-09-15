@@ -1,0 +1,42 @@
+.navbar{
+  border-radius: 0px;
+  margin-bottom: 0px;
+  /*background-color: white;*/
+
+}
+
+ul li a{
+  color: white;
+}
+
+ul li.active a {
+  color: white;
+  background-color: #199427;
+}
+
+.navbar-brand{
+  padding: 0 0;
+  border-radius: 100px;
+  -moz-border-radius:100px;
+  -webkit-border-radius:100px;
+}
+
+.navbar-brand img{
+  border-radius: 100px;
+  margin-left: 10px;
+}
+
+.navbar.navbar-inverse{
+  background-color: #1f601f;
+
+}
+ul.dropdown-menu li a{
+  color: #888;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
+  background-color: #199427;
+}
+
+
+
