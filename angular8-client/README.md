@@ -40,3 +40,5 @@ https://www.tutsmake.com/angular-google-maps-integration-example/
 https://medium.com/@jkeung/integrating-google-maps-api-w-angular-7-e7672396ce2d
 
 
+Mau template lam theo trang nay
+https://beautygarden.vn/danh-muc/dau-goi.html
