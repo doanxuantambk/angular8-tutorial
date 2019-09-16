@@ -37,6 +37,25 @@ ul.dropdown-menu li a{
   background-color: white !important;
 }
 
+a.phone-number{
+  text-decoration: none;
+  color: red;
+}
+a:hover.phone-number{
+  text-decoration: none;
+}
 
+.text-slogan{
+  text-transform: uppercase;
+}
+
+.container.top-menu {
+  margin-left: 6px;
+  width: 100%;
+  padding-right: 42px;
+}
+.navbar-inverse{
+  border-color: #1f601f;
+}
 
 

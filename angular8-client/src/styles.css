@@ -3,8 +3,18 @@
   color: white;
 }
 
+.text-blue{
+  color: #1f601f;
+}
+
 .top-banner{
-  background-color: #494949;
+  background-color: #fff;
   padding-bottom: 5px;
   padding-top: 5px;
+
+}
+
+.row.top-banner{
+  margin-left: 0px;
+  margin-right: 0px;
 }
