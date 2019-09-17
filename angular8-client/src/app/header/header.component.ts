@@ -14,9 +14,15 @@ export class HeaderComponent implements OnInit {
   ngOnInit() {
     $(document).ready(function() {
 
-      $('ul.nav li a').click( function() {
+      $('ul.nav li a.dropdown-toggle').hover( function() {
         $('.nav li.active').removeClass('active');
         $(this).parent().addClass('active');
+
+        var dropdownMenu = $(this).children(".dropdown-menu");
+        if(dropdownMenu.is(":visible")){
+          dropdownMenu.parent().toggleClass("open");
+        }
+
       } );
     });
   }
